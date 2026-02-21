@@ -111,6 +111,17 @@ pip install pymupdf scikit-learn numpy scipy joblib
 
 ---
 
+---
+
+## 🌐 Live Demo
+
+🚀 Try StudySearch here:  
+https://studysearch.pythonanywhere.com/
+
+---
+
+
+
 ## 🛠️ Usage
 
 ### Step 1: Put PDFs inside `Books/`
